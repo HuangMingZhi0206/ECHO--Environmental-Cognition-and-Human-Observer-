@@ -1,4 +1,4 @@
-# Echo: Context-Aware Interactive Robot Assistant (v6.0)
+# Echo: Environmental Cognition and Human Observer (v6.0)
 
 **Echo** is a state-of-the-art, context-aware interactive robot assistant built on a **local hybrid edge-server architecture**. By combining high-performance deep learning inference on a consumer-grade GPU with robust edge controllers, Echo delivers zero-latency multimodal interaction (Vision, Speech, and Gestures) without relying on cloud services.
 
